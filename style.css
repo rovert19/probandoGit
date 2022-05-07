@@ -1,0 +1,33 @@
+#user {
+  border-radius: 2.5rem;
+  width: 78px;
+  height: 78px;
+  border:0.2rem  rgb(45, 131, 124) dashed;
+  display: flex;
+  float: left;
+  padding: 0.14rem;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+.container {
+  background-color: rgb(161, 209, 205);
+  border-radius: 0.5rem;
+  border: 0.2rem rgb(45, 131, 124) dashed;
+  margin: 160px 120px;
+  padding: 20px;
+}
+
+p {
+  font-size: large;
+  color: rgb(104, 99, 93);
+  display: flow-root;
+}
+
+body {
+  background-color: rgb(92, 92, 219);
+}
+
+html {
+  font-family: 'Oxygen', sans-serif;
+}
